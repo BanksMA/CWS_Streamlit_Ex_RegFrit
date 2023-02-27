@@ -105,7 +105,7 @@ IMAGE_TYPES = ["png", "jpg"]
 EXTERNAL_DEPENDENCIES = {
     "example_figleps_prlmstr.pkl": {
         "url": "https://www.dropbox.com/s/bwvzdjo97as0nmm/example_figleps_prlmstr.pkl?dl=1",
-        "size": 179216384
+        "size": 179214213
     }
 }
 
